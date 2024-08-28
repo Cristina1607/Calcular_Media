@@ -1,0 +1,37 @@
+```plaintext
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+ Cálculo de Média e Verificação de Aprovação
+
+Descrição: Desenvolva um programa em Python que solicita ao usuário três notas, calcula a média dessas notas e verifica se o aluno foi aprovado ou reprovado. O critério de aprovação é uma média maior ou igual a 7.0.
+
+Funcionalidades obrigatórias:
+
+1. Leitura de três notas inseridas pelo usuário.
+2. Cálculo da média das três notas.
+3. Verificação se a média é maior ou igual a 7.0.
+4. Exibição de uma mensagem indicando aprovação ou reprovação.
+Tecnologias: Python 3.x
+
+Licença: MIT License
